@@ -249,3 +249,87 @@
     - type: MusicTape
       songName: кассета (That The Road is no Longer Prohibite - Abu)
       sound: /Audio/_Sunrise/TapePlayer/Tracks/ThatTheRoadIsNoLongerProhibited.ogg
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape22
+  name: кассета (зелёные зомбе)
+  description:
+  components:
+    - type: Sprite
+      state: tape15
+    - type: MusicTape
+      songName: кассета (зелёные зомбе)
+      sound: /Audio/_Sunrise/TapePlayer/Tracks/zobi.ogg
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape23
+  name: кассета (It Happens Every Night - The Koffin Kats)
+  description:
+  components:
+    - type: Sprite
+      state: tape13
+    - type: MusicTape
+      songName: кассета (It Happens Every Night - The Koffin Kats)
+      sound: /Audio/_Sunrise/TapePlayer/Tracks/Every_Night.ogg
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape24
+  name: кассета (Choke - The Koffin Kats)
+  description:
+  components:
+    - type: Sprite
+      state: tape9
+    - type: MusicTape
+      songName: кассета (Choke - The Koffin Kats)
+      sound: /Audio/_Sunrise/TapePlayer/Tracks/Choke.ogg
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape25
+  name: кассета (World War III - T.S.O.L.)
+  description:
+  components:
+    - type: Sprite
+      state: tape4
+    - type: MusicTape
+      songName: кассета (World War III - T.S.O.L.)
+      sound: /Audio/_Sunrise/TapePlayer/Tracks/WW3.ogg
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape26
+  name: кассета (Далеко бежит дорога - Гражданская оборона)
+  description:
+  components:
+    - type: Sprite
+      state: tape4
+    - type: MusicTape
+      songName: кассета (Далеко бежит дорога - Гражданская оборона)
+      sound: /Audio/_Sunrise/TapePlayer/Tracks/doroga.ogg
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape27
+  name: кассета (Nowhere Ride - The Chelsea Smiles)
+  description:
+  components:
+    - type: Sprite
+      state: tape1
+    - type: MusicTape
+      songName: кассета (Nowhere Ride - The Chelsea Smiles)
+      sound: /Audio/_Sunrise/TapePlayer/Tracks/nwride.ogg
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape27
+  name: кассета (Snitches And Talkers Get Stitches And Walkers - Fall Out Boy)
+  description:
+  components:
+    - type: Sprite
+      state: tape25
+    - type: MusicTape
+      songName: кассета (Snitches And Talkers Get Stitches And Walkers - Fall Out Boy)
+      sound: /Audio/_Sunrise/TapePlayer/Tracks/Snitches_Talkers.ogg
