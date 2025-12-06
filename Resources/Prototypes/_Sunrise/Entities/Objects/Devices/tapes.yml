@@ -324,12 +324,12 @@
 
 - type: entity
   parent: BaseMusicTape
-  id: MusicTape27
+  id: MusicTape28
   name: кассета (Snitches And Talkers Get Stitches And Walkers - Fall Out Boy)
   description:
   components:
     - type: Sprite
-      state: tape25
+      state: tape21
     - type: MusicTape
       songName: кассета (Snitches And Talkers Get Stitches And Walkers - Fall Out Boy)
       sound: /Audio/_Sunrise/TapePlayer/Tracks/Snitches_Talkers.ogg
