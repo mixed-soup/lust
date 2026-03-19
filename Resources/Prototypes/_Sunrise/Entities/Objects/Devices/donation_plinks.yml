@@ -41,6 +41,7 @@
       - Cloaks
       - QMHeadOfDepartment
       - Music
+      - PaintThings
     currencyWhitelist:
       - Suntick
     balance:
@@ -50,7 +51,6 @@
       - SunriseUplink
 
 ##################
-#    SUNRISE     #
 ##################
 
 - type: entity
@@ -138,6 +138,7 @@
       - QMHeadOfDepartment
       - Music
       - Erotic
+      - PaintThings
 
 - type: entity
   parent: BaseDonationPlinkLust

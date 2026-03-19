@@ -8,3 +8,12 @@ ent-ClothingUniformJumpsuitIAAFormal = формальный костюм АВД
     .desc = Бумажная работа важна, но выглядеть хорошо при этом — тоже.
 ent-ClothingUniformElegantJumpsuitIAA = элегантный костюм АВД
     .desc = Строгий костюм для АВД, превращающего бумажную рутину в силу.
+
+ent-ClothingUniformJumpsuitQilluDirector = костюм директора корпорации Qillu
+    .desc = Официальный костюм директора корпорации Qillu. Пахнет дорогим парфюмом и внезапными оптимизациями бюджета.
+ent-ClothingUniformJumpsuitCentcomSuitQillu = костюм Центкома
+    .suffix = Qillu
+    .desc = Парадная форма Центкома по контракту Qillu. Строгая, официальная и узнаваемая издалека.
+ent-ClothingUniformJumpsuitCentcomUniformQillu = форма Центкома
+    .suffix = Qillu
+    .desc = Регламентная форма Центкома, изготовленная по контракту Qillu.

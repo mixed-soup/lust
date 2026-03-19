@@ -123,7 +123,7 @@
     - type: TriggerOnMobstateChange
       preventSuicide: true
       mobState:
-      - Critical
+      - Dead
     - type: TimerTrigger
       delay: 3
       initialBeepDelay: 0
@@ -366,6 +366,13 @@
       - BorgModuleMedical
     hasMindState: medical_e
     noMindState: medical_e_r
+  - type: SolutionScanner
+  - type: ShowHealthBars
+    damageContainers:
+    - Biological
+  - type: ShowHealthIcons
+    damageContainers:
+    - Biological
 
 - type: entity
   parent: BaseBorgChassisDerelict

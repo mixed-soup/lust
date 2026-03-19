@@ -6,15 +6,18 @@
   - CaptainNeck
   - CaptainJumpsuit
   - CaptainBackpack
+  - CaptainGloves # Sunrise Edit
   - CaptainOuterClothing
   - Survival
   - Trinkets
+  - CaptainJobTrinkets
   - GroupSpeciesBreathTool
   # Sunrise-start
   - SpecialLoadout # Lust Station
   - Bra
   - Pants
   - Socks
+  - Contributors
   # Sunrise-end
 
 - type: roleLoadout
@@ -29,12 +32,14 @@
   - Glasses
   - Survival
   - Trinkets
+  - HoPJobTrinkets
   - GroupSpeciesBreathTool
   # Sunrise-start
   - SpecialLoadout # Lust Station
   - Bra
   - Pants
   - Socks
+  - Contributors
   # Sunrise-end
 
 # Silicons
@@ -63,12 +68,14 @@
   - Glasses
   - Survival
   - Trinkets
+  - PassengerJobTrinkets
   - GroupSpeciesBreathTool
   # Sunrise-start
   - SpecialLoadout # Lust Station
   - Bra
   - Pants
   - Socks
+  - Contributors
   # Sunrise-end
 
 - type: roleLoadout
@@ -82,12 +89,14 @@
   - Glasses
   - Survival
   - Trinkets
+  - BartenderJobTrinkets
   - GroupSpeciesBreathTool
   # Sunrise-start
   - SpecialLoadout # Lust Station
   - Bra
   - Pants
   - Socks
+  - Contributors
   # Sunrise-end
 
 - type: roleLoadout
@@ -99,12 +108,14 @@
   - Glasses
   - Survival
   - Trinkets
+  - ServiceWorkerJobTrinkets
   - GroupSpeciesBreathTool
   # Sunrise-start
   - SpecialLoadout # Lust Station
   - Bra
   - Pants
   - Socks
+  - Contributors
   # Sunrise-end
 
 - type: roleLoadout
@@ -119,12 +130,14 @@
   - Glasses
   - Survival
   - Trinkets
+  - ChefJobTrinkets
   - GroupSpeciesBreathTool
   # Sunrise-start
   - SpecialLoadout # Lust Station
   - Bra
   - Pants
   - Socks
+  - Contributors
   # Sunrise-end
 
 - type: roleLoadout
@@ -136,12 +149,14 @@
   - Glasses
   - Survival
   - Trinkets
+  - LibrarianJobTrinkets
   - GroupSpeciesBreathTool
   # Sunrise-start
   - SpecialLoadout # Lust Station
   - Bra
   - Pants
   - Socks
+  - Contributors
   # Sunrise-end
 
 - type: roleLoadout
@@ -154,12 +169,14 @@
   - Glasses
   - Survival
   - Trinkets
+  - LawyerJobTrinkets
   - GroupSpeciesBreathTool
   # Sunrise-start
   - SpecialLoadout # Lust Station
   - Bra
   - Pants
   - Socks
+  - Contributors
   # Sunrise-end
 
 - type: roleLoadout
@@ -176,12 +193,14 @@
   - Glasses
   - Survival
   - Trinkets
+  - ChaplainJobTrinkets
   - GroupSpeciesBreathTool
   # Sunrise-start
   - SpecialLoadout # Lust Station
   - Bra
   - Pants
   - Socks
+  - Contributors
   # Sunrise-end
 
 - type: roleLoadout
@@ -196,13 +215,14 @@
   - Glasses
   - Survival
   - Trinkets
-  - JanitorPlunger
+  - JanitorJobTrinkets
   - GroupSpeciesBreathTool
   # Sunrise-start
   - SpecialLoadout # Lust Station
   - Bra
   - Pants
   - Socks
+  - Contributors
   # Sunrise-end
 
 - type: roleLoadout
@@ -216,12 +236,14 @@
   - Glasses
   - Survival
   - Trinkets
+  - BotanistJobTrinkets
   - GroupSpeciesBreathTool
   # Sunrise-start
   - SpecialLoadout # Lust Station
   - Bra
   - Pants
   - Socks
+  - Contributors
   # Sunrise-end
 
 - type: roleLoadout
@@ -237,11 +259,13 @@
   - Glasses
   - SurvivalClown
   - Trinkets
+  - ClownJobTrinkets
   # Sunrise-start
   - SpecialLoadout # Lust Station
   - Bra
   - Pants
   - Socks
+  - Contributors
   # Sunrise-end
 
 - type: roleLoadout
@@ -258,15 +282,18 @@
   - Glasses
   - SurvivalMime
   - Trinkets
+  - MimeJobTrinkets
   # Sunrise-start
   - SpecialLoadout # Lust Station
   - Bra
   - Pants
   - Socks
+  - Contributors
   # Sunrise-end
 
 - type: roleLoadout
   id: JobMusician
+  canCustomizeName: true
   groups:
   - GroupTankHarness
   - MusicianJumpsuit
@@ -275,6 +302,7 @@
   - Glasses
   - Survival
   - Trinkets
+  - MusicianJobTrinkets
   - Instruments
   - GroupSpeciesBreathTool
   # Sunrise-start
@@ -282,6 +310,7 @@
   - Bra
   - Pants
   - Socks
+  - Contributors
   # Sunrise-end
 
 # Cargo
@@ -291,22 +320,17 @@
   - GroupTankHarness
   - QuartermasterHead
 #  - QuartermasterNeck #Sunrise-edit
-  # Sunrise-start
-  - SunriseQuartermasterMask
-  # Sunrise-end
+  - SunriseQuartermasterMask # Sunrise Edit
   - QuartermasterJumpsuit
-  # Sunrise-start
-  - SunriseQuartermasterGloves
-  # Sunrise-end
+  - SunriseQuartermasterGloves # Sunrise Edit
   - CargoTechnicianBackpack
   - QuartermasterOuterClothing
-  # Sunrise-start
-  - QuartermasterNeck
-  # Sunrise-end
+  - QuartermasterNeck # Sunrise Edit
   - QuartermasterShoes
   - Glasses
   - Survival
   - Trinkets
+  - QuartermasterJobTrinkets
   - GroupSpeciesBreathTool
   # Sunrise-start
   - SpecialLoadout # Lust Station
@@ -314,6 +338,7 @@
   - Bra
   - Pants
   - Socks
+  - Contributors
   # Sunrise-end
 
 - type: roleLoadout
@@ -321,29 +346,25 @@
   groups:
   - GroupTankHarness
   - CargoTechnicianHead
-  # Sunrise-start
-  - SunriseCargoTechMask
-  # Sunrise-end
+  - SunriseCargoTechMask # Sunrise Edit
   - CargoTechnicianJumpsuit
-  # Sunrise-start
-  - SunriseCargoTechGloves
-  # Sunrise-end
+  - SunriseCargoTechGloves # Sunrise Edit
   - CargoTechnicianBackpack
   - CargoTechnicianOuterClothing
-  # Sunrise-start
-  - SunriseCargoTechNeck
-  # Sunrise-end
+  - SunriseCargoTechNeck # Sunrise Edit
   - CargoTechnicianShoes
+  - CargoTechnicianID
   - Glasses
   - Survival
   - Trinkets
+  - CargoTechnicianJobTrinkets
   - GroupSpeciesBreathTool
   # Sunrise-start
   - TrinketsCargo
   - Bra
   - Pants
   - Socks
-  - SpecialLoadout # Lust Station
+  - Contributors
   # Sunrise-end
 
 - type: roleLoadout
@@ -357,20 +378,19 @@
   # Sunrise-end
   - SalvageSpecialistBackpack
   - SalvageSpecialistOuterClothing
-  # Sunrise-start
-  - SunriseSalvageNeck
-  # Sunrise-end
+  - SunriseSalvageNeck # Sunrise Edit
   - SalvageSpecialistShoes
   - Glasses
   - Survival
   - Trinkets
+  - SalvageSpecialistJobTrinkets
   - GroupSpeciesBreathTool
   # Sunrise-start
   - TrinketsCargo
   - Bra
   - Pants
   - Socks
-  - SpecialLoadout # Lust Station
+  - Contributors
   # Sunrise-end
 
 # Engineering
@@ -379,43 +399,34 @@
   groups:
   - GroupTankHarness
   - ChiefEngineerHead
-  # Sunrise-start
-  - SunriseCEMask
-  # Sunrise-end
+  - SunriseCEMask # Sunrise Edit
   - ChiefEngineerJumpsuit
-  # Sunrise-start
-  - SunriseCEGloves
-  # Sunrise-end
+  - SunriseCEGloves # Sunrise Edit
   - ChiefEngineerBackpack # Sunrise-Edit
 #  - ChiefEngineerNeck # Sunrise-Edit
   - ChiefEngineerOuterClothing
-  # Sunrise-start
-  - ChiefEngineerNeck
-  # Sunrise-end
+  - ChiefEngineerNeck # Sunrise Edit
   - ChiefEngineerShoes
   - SurvivalExtended
   - Trinkets
+  - ChiefEngineerJobTrinkets
   - GroupSpeciesBreathTool
   # Sunrise-start
   - TrinketsEngineering
   - Bra
   - Pants
   - Socks
-  - SpecialLoadout # Lust Station
+  - Contributors
   # Sunrise-end
 
 - type: roleLoadout
   id: JobTechnicalAssistant
   groups:
   - GroupTankHarness
-  # Sunrise-start
-  - StationEngineerHead
-  - StationSunriseEngineerMask
-  # Sunrise-end
+  - StationEngineerHead # Sunrise Edit
+  - StationSunriseEngineerMask # Sunrise Edit
   - TechnicalAssistantJumpsuit
-  # Sunrise-start
-  - StationSunriseEngineerGloves
-  # Sunrise-end
+  - StationSunriseEngineerGloves # Sunrise Edit
   - StationEngineerBackpack
   # Sunrise-start
   - StationEngineerOuterClothing
@@ -424,13 +435,14 @@
   # Sunrise-end
   - SurvivalExtended
   - Trinkets
+  - TechnicalAssistantJobTrinkets
   - GroupSpeciesBreathTool
   # Sunrise-start
   - TrinketsEngineering
   - Bra
   - Pants
   - Socks
-  - SpecialLoadout # Lust Station
+  - Contributors
   # Sunrise-end
 
 - type: roleLoadout
@@ -438,58 +450,48 @@
   groups:
   - GroupTankHarness
   - StationEngineerHead
-   # Sunrise-start
-  - StationSunriseEngineerMask
-   # Sunrise-end
+  - StationSunriseEngineerMask # Sunrise Edit
   - StationEngineerJumpsuit
-   # Sunrise-start
-  - StationSunriseEngineerGloves
-   # Sunrise-end
+  - StationSunriseEngineerGloves # Sunrise Edit
   - StationEngineerBackpack
   - StationEngineerOuterClothing
-   # Sunrise-start
-  - StationSunriseEngineerNeck
-   # Sunrise-end
+  - StationSunriseEngineerNeck # Sunrise Edit
   - StationEngineerShoes
-  #- StationEngineerID
+  - StationEngineerID
   - SurvivalExtended
   - Trinkets
+  - StationEngineerJobTrinkets
   - GroupSpeciesBreathTool
   # Sunrise-start
   - TrinketsEngineering
   - Bra
   - Pants
   - Socks
-  - SpecialLoadout # Lust Station
+  - Contributors
   # Sunrise-end
 
 - type: roleLoadout
   id: JobAtmosphericTechnician
   groups:
   - GroupTankHarness
-  # Sunrise-start
-  - SunriseAtmosHead
-  - SunriseAtmosMask
-  # Sunrise-end
+  - SunriseAtmosHead # Sunrise Edit
+  - SunriseAtmosMask # Sunrise Edit
   - AtmosphericTechnicianJumpsuit
-  # Sunrise-start
-  - SunriseAtmosGloves
-  # Sunrise-end
+  - SunriseAtmosGloves # Sunrise Edit
   - AtmosphericTechnicianBackpack
   - AtmosphericTechnicianOuterClothing
-  # Sunrise-start
-  - SunriseAtmosNeck
-  # Sunrise-end
+  - SunriseAtmosNeck # Sunrise Edit
   - AtmosphericTechnicianShoes
   - SurvivalExtended
   - Trinkets
+  - AtmosphericTechnicianJobTrinkets
   - GroupSpeciesBreathTool
   # Sunrise-start
   - TrinketsEngineering
   - Bra
   - Pants
   - Socks
-  - SpecialLoadout # Lust Station
+  - Contributors
   # Sunrise-end
 
 # Science
@@ -507,12 +509,14 @@
   - Glasses
   - Survival
   - Trinkets
+  - ResearchDirectorJobTrinkets
   - GroupSpeciesBreathTool
   # Sunrise-start
   - SpecialLoadout # Lust Station
   - Bra
   - Pants
   - Socks
+  - Contributors
   # Sunrise-end
 
 - type: roleLoadout
@@ -526,16 +530,18 @@
   - ScientistOuterClothing
   - ScientistGloves
   - ScientistShoes
-  #- ScientistPDA
+  - ScientistPDA
   - Glasses
   - Survival
   - Trinkets
+  - ScientistJobTrinkets
   - GroupSpeciesBreathTool
   # Sunrise-start
   - SpecialLoadout # Lust Station
   - Bra
   - Pants
   - Socks
+  - Contributors
   # Sunrise-end
 
 - type: roleLoadout
@@ -547,12 +553,14 @@
   - Glasses
   - Survival
   - Trinkets
+  - ResearchAssistantJobTrinkets
   - GroupSpeciesBreathTool
   # Sunrise-start
   - SpecialLoadout # Lust Station
   - Bra
   - Pants
   - Socks
+  - Contributors
   # Sunrise-end
 
 # Security
@@ -569,7 +577,7 @@
   - SecurityShoes
   - SurvivalSecurity
   - Trinkets
-  - SecurityStar
+  - HeadofSecurityJobTrinkets
   - GroupSpeciesBreathToolSecurity
   - SecurityTrinkets  # Sunrise
   # Sunrise-start
@@ -577,7 +585,7 @@
   - Bra
   - Pants
   - Socks
-  - SpecialLoadout # Lust Station
+  - Contributors
   # Sunrise-end
 
 - type: roleLoadout
@@ -592,15 +600,15 @@
   - SecurityShoes
   - SurvivalSecurity
   - Trinkets
-  - SecurityStar
+  - WardenJobTrinkets
   - GroupSpeciesBreathToolSecurity
   - SecurityTrinkets  # Sunrise
   # Sunrise-start
-  - SunriseSecurityGun
+  - SunriseWardenGun
   - Bra
   - Pants
   - Socks
-  - SpecialLoadout # Lust Station
+  - Contributors
   # Sunrise-end
 
 - type: roleLoadout
@@ -609,14 +617,14 @@
   - SecurityHead
   - SecurityJumpsuit
   - SecurityBackpack
-  - SecurityGlasses #Lust-Edit
+  - SecurityGlasses # Sunrise Edit
   - SecurityOuterClothing
   - SecurityShoes
-  #- SecurityPDA
+  - SecurityPDA
   - SecurityBelt
   - SurvivalSecurity
   - Trinkets
-  - SecurityStar
+  - SecurityJobTrinkets
   - GroupSpeciesBreathToolSecurity
   - SecurityTrinkets  # Sunrise
   # Sunrise-start
@@ -624,7 +632,7 @@
   - Bra
   - Pants
   - Socks
-  - SpecialLoadout # Lust Station
+  - Contributors
   # Sunrise-end
 
 - type: roleLoadout
@@ -639,7 +647,7 @@
   - SecurityShoes
   - SurvivalSecurity
   - Trinkets
-  - SecurityStar
+  - DetectiveJobTrinkets
   - GroupSpeciesBreathToolSecurity
   - SecurityTrinkets  # Sunrise
   # Sunrise-start
@@ -648,6 +656,7 @@
   - Bra
   - Pants
   - Socks
+  - Contributors
   # Sunrise-end
 
 - type: roleLoadout
@@ -658,6 +667,7 @@
   - SecurityGlasses #Lust-Edit
   - SurvivalSecurity
   - Trinkets
+  - SecurityCadetJobTrinkets
   - GroupSpeciesBreathToolSecurity
   - SecurityTrinkets  # Sunrise
   # Sunrise-start
@@ -666,6 +676,7 @@
   - Bra
   - Pants
   - Socks
+  - Contributors
   # Sunrise-end
 
 # Medical
@@ -675,13 +686,9 @@
   - GroupTankHarness
   - ChiefMedicalOfficerHead
 #  - MedicalMask   #Sunrise-edit
-# Sunrise-start
-  - SunriseChiefMedicalOfficerMask
-# Sunrise-end
+  - SunriseChiefMedicalOfficerMask # Sunrise Edit
   - ChiefMedicalOfficerJumpsuit
-# Sunrise-start
-  - SunriseChiefMedicalOfficerGloves
-# Sunrise-end
+  - SunriseChiefMedicalOfficerGloves # Sunrise Edit
 #  - MedicalGloves  #Sunrise-edit
   - MedicalBackpack
   - ChiefMedicalOfficerOuterClothing
@@ -690,13 +697,14 @@
   - MedicalEyewear
   - SurvivalMedical
   - Trinkets
+  - ChiefMedicalOfficerJobTrinkets
   - GroupSpeciesBreathToolMedical
   # Sunrise-start
   - MedicalTrinkets
   - Bra
   - Pants
   - Socks
-  - SpecialLoadout # Lust Station
+  - Contributors
   # Sunrise-end
 
 - type: roleLoadout
@@ -709,35 +717,30 @@
   - MedicalGloves
   - MedicalBackpack
   - MedicalDoctorOuterClothing
-  # Sunrise-start
-  - SunriseMedicalDoctorNeck
-  # Sunrise-end
+  - SunriseMedicalDoctorNeck # Sunrise Edit
   - MedicalShoes
-  #- MedicalDoctorPDA
+  - MedicalDoctorPDA
   - MedicalEyewear
   - SurvivalMedical
   - Trinkets
+  - MedicalDoctorJobTrinkets
   - GroupSpeciesBreathToolMedical
   # Sunrise-start
   - MedicalTrinkets
   - Bra
   - Pants
   - Socks
-  - SpecialLoadout # Lust Station
+  - Contributors
   # Sunrise-end
 
 - type: roleLoadout
   id: JobMedicalIntern
   groups:
   - GroupTankHarness
-  # Sunrise-start
-  - MedicalDoctorHead
-  - MedicalMask
-  # Sunrise-end
+  - MedicalDoctorHead # Sunrise Edit
+  - MedicalMask # Sunrise Edit
   - MedicalInternJumpsuit
-  # Sunrise-start
-  - MedicalGloves
-  # Sunrise-end
+  - MedicalGloves # Sunrise Edit
   - MedicalBackpack
   # Sunrise-start
   - MedicalDoctorOuterClothing
@@ -747,45 +750,44 @@
   - MedicalEyewear
   - SurvivalMedical
   - Trinkets
+  - MedicalInternJobTrinkets
   - GroupSpeciesBreathToolMedical
   # Sunrise-start
   - MedicalTrinkets
   - Bra
   - Pants
   - Socks
-  - SpecialLoadout # Lust Station
+  - Contributors
   # Sunrise-end
 
 - type: roleLoadout
   id: JobChemist
   groups:
   - GroupTankHarness
-  # Sunrise-start
-  - SunriseChemistHead
-  - SunriseChemistMask
-  # Sunrise-end
+  - SunriseChemistHead # Sunrise Edit
+  - SunriseChemistMask # Sunrise Edit
 #  - MedicalMask   #Sunrise-edit
   - ChemistJumpsuit
 #    - MedicalGloves #Sunrise-edit
-  # Sunrise-start
-  - SunriseChemistGloves
-  # Sunrise-end
+  - SunriseChemistGloves # Sunrise Edit
   - ChemistBackpack
   - ChemistOuterClothing
   # Sunrise-start
   - SunriseChemistNeck
   - SunriseChemistShoes
+  - SunriseChemistMisc
   # Sunrise-end
 #  - MedicalShoes #Sunrise-edit
   - SurvivalMedical
   - Trinkets
+  - ChemistJobTrinkets
   - GroupSpeciesBreathToolMedical
   # Sunrise-start
   - MedicalTrinkets
   - Bra
   - Pants
   - Socks
-  - SpecialLoadout # Lust Station
+  - Contributors
   # Sunrise-end
 
 - type: roleLoadout
@@ -794,49 +796,28 @@
   - GroupTankHarness
   - ParamedicHead
 #  - MedicalMask   #Sunrise-edit
-  # Sunrise-start
-  - SunriseParamedicMask
-  # Sunrise-end
+  - SunriseParamedicMask # Sunrise Edit
   - ParamedicJumpsuit
 #  - MedicalGloves #Sunrise-edit
-  # Sunrise-start
-  - SunriseParamedicGloves
-  # Sunrise-end
+  - SunriseParamedicGloves # Sunrise Edit
   - MedicalBackpack
   - ParamedicOuterClothing
-  # Sunrise-start
-  - SunriseParamedicNeck
-  # Sunrise-end
+  - SunriseParamedicNeck # Sunrise Edit
   - ParamedicShoes
   - MedicalEyewear
   - SurvivalMedical
   - Trinkets
+  - ParamedicJobTrinkets
   - GroupSpeciesBreathToolMedical
 # Sunrise-start
   - MedicalTrinkets
   - Bra
   - Pants
   - Socks
-  - SpecialLoadout # Lust Station
+  - Contributors
   # Sunrise-end
 
 # Wildcards
-- type: roleLoadout
-  id: JobZookeeper
-  groups:
-  - GroupTankHarness
-  - CommonBackpack
-  - Glasses
-  - Survival
-  - Trinkets
-  - GroupSpeciesBreathTool
-  # Sunrise-start
-  - SpecialLoadout # Lust Station
-  - Bra
-  - Pants
-  - Socks
-  # Sunrise-end
-
 - type: roleLoadout
   id: JobReporter
   groups:
@@ -846,12 +827,14 @@
   - Glasses
   - Survival
   - Trinkets
+  - ReporterJobTrinkets
   - GroupSpeciesBreathTool
   # Sunrise-start
   - SpecialLoadout # Lust Station
   - Bra
   - Pants
   - Socks
+  - Contributors
   # Sunrise-end
 
 - type: roleLoadout
@@ -875,31 +858,13 @@
   - Glasses
   - Survival
   - Trinkets
+  - PsychologistJobTrinkets
   - GroupSpeciesBreathTool
   # Sunrise-start
-  - MedicalTrinkets
   - Bra
   - Pants
   - Socks
-  - SpecialLoadout # Lust Station
-  # Sunrise-end
-
-- type: roleLoadout
-  id: JobBoxer
-  groups:
-  - GroupTankHarness
-  - BoxerJumpsuit
-  - BoxerGloves
-  - CommonBackpack
-  - Glasses
-  - Survival
-  - Trinkets
-  - GroupSpeciesBreathTool
-  # Sunrise-start
-  - SpecialLoadout # Lust Station
-  - Bra
-  - Pants
-  - Socks
+  - Contributors
   # Sunrise-end
 
 # These loadouts are used for non-crew spawns, like off-station antags and event mobs
@@ -960,6 +925,11 @@
   - SurvivalSyndicate
   - GroupSpeciesBreathTool
   - GroupTankHarness
+
+- type: roleLoadout
+  id: RoleSurvivalMilitaryDouble
+  groups:
+  - SurvivalMilitaryDouble
 
 - type: roleLoadout
   id: RoleSurvivalNukie

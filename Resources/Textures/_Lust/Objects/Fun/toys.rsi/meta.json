@@ -71,9 +71,6 @@
             "directions": 4
         },
         {
-            "name": "asya_fartuna"
-        },
-        {
             "name": "blizzard"
         },
         {
@@ -84,6 +81,18 @@
         },
         {
             "name": "ulava-britz"
+        },
+        {
+            "name": "ulava-inhand-right",
+            "directions": 4
+        },
+        {
+            "name": "ulava-inhand-left",
+            "directions": 4
+        },
+        {
+            "name": "ulava-equipped-NECK",
+            "directions": 4
         },
         {
             "name": "sophiekomissarova"
@@ -113,6 +122,17 @@
         },
         {
           "name": "plushie-raneli-toll-eyes"
+        },
+        {
+          "name": "plushiediegovulpa"
+    },
+    {
+        "name": "diego-vulpa-inhand-left",
+        "directions": 4
+    },
+    {
+        "name": "diego-vulpa-inhand-right",
+        "directions": 4
         }
     ]
 }

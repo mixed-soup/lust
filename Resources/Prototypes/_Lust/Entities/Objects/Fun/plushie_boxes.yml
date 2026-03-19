@@ -49,8 +49,6 @@
         orGroup: Plushie
       - id: PlushieArelitt
         orGroup: Plushie
-      - id: PlushieAsyaFartuna
-        orGroup: Plushie
       - id: PlushieBlizzard
         orGroup: Plushie
       - id: PlushieRustemBrich
@@ -70,4 +68,8 @@
       - id: PlushieKira
         orGroup: Plushie
       - id: PlushieAshito
+        orGroup: Plushie
+      - id: PlushieDiegoVulpa
+        orGroup: Plushie
+      - id: PlushieLilith
         orGroup: Plushie

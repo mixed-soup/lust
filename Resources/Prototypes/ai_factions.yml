@@ -11,14 +11,13 @@
   - Revolutionary
   - AllHostile
   - Wizard
+  - Xenoborg
   # Sunrise Edit
   - Thief
   - Vampire
   - FleshHuman
   - Flesh
   - BloodCult
-  # Lust Edit
-  - Arrows
 
 - type: npcFaction
   id: NanoTrasen
@@ -38,8 +37,7 @@
   - Vampire
   - Flesh
   - BloodCult
-  # Lust Edit
-  - Arrows
+  - Pirate
 
 - type: npcFaction
   id: Mouse
@@ -53,17 +51,20 @@
 
 - type: npcFaction
   id: PetsNT
+  friendly:
+  - NanoTrasen
   hostile:
   - Mouse
   - SimpleHostile
   - Zombie
   - Xeno
   - AllHostile
-  - Wizard
   - Dragon
   # Sunrise Edit
+  - Pirate
   - Carps
   - Flesh
+  - Xenoborg
 
 - type: npcFaction
   id: SimpleHostile
@@ -86,8 +87,7 @@
   - FleshHuman
   - Flesh
   - BloodCult
-  # Lust Edit
-  - Arrows
+  - Pirate
 
 - type: npcFaction
   id: SimpleNeutral
@@ -111,8 +111,7 @@
   - FleshHuman
   - Flesh
   - BloodCult
-  # Lust Edit
-  - Arrows
+  - Pirate
 
 - type: npcFaction
   id: Xeno
@@ -134,8 +133,7 @@
   - FleshHuman
   - Flesh
   - BloodCult
-  # Lust Edit
-  - Arrows
+  - Pirate
 
 - type: npcFaction
   id: Zombie
@@ -158,8 +156,7 @@
   - FleshHuman
   - Flesh
   - BloodCult
-  # Lust Edit
-  - Arrows
+  - Pirate
 
 - type: npcFaction
   id: Revolutionary
@@ -177,8 +174,7 @@
   - FleshHuman
   - Flesh
   - BloodCult
-  # Lust Edit
-  - Arrows
+  - Pirate
 
 - type: npcFaction
   id: AllHostile
@@ -203,8 +199,7 @@
   - FleshHuman
   - Flesh
   - BloodCult
-  # Lust Edit
-  - Arrows
+  - Pirate
 
 - type: npcFaction
   id: Wizard
@@ -230,8 +225,8 @@
   - Flesh
   - Xeno
   - BloodCult
-  # Lust Edit
-  - Arrows
+  - Pirate
+  - Dragon
 
 - type: npcFaction
   id: Xenoborg
@@ -257,5 +252,4 @@
   - Flesh
   - Xeno
   - BloodCult
-  # Lust Edit
-  - Arrows
+  - Pirate
